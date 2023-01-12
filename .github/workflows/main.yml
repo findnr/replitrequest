@@ -11,3 +11,10 @@ jobs:
     steps:
       - name: echo message
         run: echo "thin is test info"
+        
+    steps:
+      - name: get checkout
+        uses: actions/checkout@main
+        run: ls
+        
+        
