@@ -1,12 +1,12 @@
+
 name: main
 
 on:
   schedule:
     - cron: '1 * * * *'
-
 jobs:
-  test_schedule:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Every time
-        run:  echo "This step will always run"
+      - name: echo message
+        run: echo "thin is test info"
