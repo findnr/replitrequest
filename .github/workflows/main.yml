@@ -14,6 +14,6 @@ jobs:
       - name: get checkout
         uses: actions/checkout@main
       - name: ls
-        run: ls
+        run: sh autorequest.sh
         
         
