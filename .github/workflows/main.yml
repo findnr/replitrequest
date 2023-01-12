@@ -1,3 +1,5 @@
+name: main
+
 on:
   schedule:
     - cron: '1 * * * *'
