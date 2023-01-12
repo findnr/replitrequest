@@ -1,9 +1,9 @@
 
-name: main
+name: 'main'
 
 on:
   schedule:
-    - cron: '1 * * * *'
+    - cron: '10 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
