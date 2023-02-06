@@ -8,4 +8,5 @@ curl https://api.cym504875043.repl.co
 curl https://swoole.cym504875043.repl.co
 #聊天前端页面
 curl https://msghtml.cym504875043.repl.co
-
+#middoc文档服务器
+curl https://middoc.cym504875043.repl.co
