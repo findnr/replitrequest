@@ -10,3 +10,7 @@ curl https://swoole.cym504875043.repl.co
 curl https://msghtml.cym504875043.repl.co
 #middoc文档服务器
 curl https://middoc.cym504875043.repl.co
+#chatgpt网页版
+curl https://chat.cym504875043.repl.co
+#chatgpt api 接口
+crul https://chatapi.cym504875043.repl.co
